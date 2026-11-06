@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing",
+      "title": "Python Testing with pytest",
+      "description": "Write and run tests to verify Python functions and fix logic errors.",
+      "path": "assignments/python-testing",
+      "dueDate": "2026-11-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
